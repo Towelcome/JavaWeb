@@ -1,0 +1,39 @@
+  学习Java Web 需要掌握的两门技术\n" +
+            "    前端技术：HTML、CSS、JavaScript\n" +
+            "    编程技术：Java语言变成\n" +
+            "    数据库：Mysql、Oracle、SQL Server\n" +
+            "\n" +
+            "  后续学习\n" +
+            "    SSM SSH框架\n" +
+            "      SSM：Spring SpringMVC Mybatic\n" +
+            "      SSH：Spring Struts    Hibernate\n" +
+            "\n" +
+            "  什么是JSP\n" +
+            "    简单来说JSP就是html+Java代码\n" +
+            "    再一个正常的网页上 加上java代码后 就变成了一个jsp页面\n" +
+            "\n" +
+            "  JSP用来开发动态页面\n" +
+            "    静态页面上的内容（文字、图片）是不可以改变的 Web前端工程师开发出来的页面就是静态页面 后端人员需要把静态页面变成动态页面\n" +
+            "\n" +
+            "  Java Web开发需要的软件\n" +
+            "    JDK 8\n" +
+            "    Idea\n" +
+            "    Tomcat\n" +
+            "    电脑\n" +
+            "\n" +
+            "  学习Tomcat的基本使用\n" +
+            "    项目放置目录\n" +
+            "    启动方法\n" +
+            "    访问方法\n" +
+            "\n" +
+            "  idea的使用\n" +
+            "    配置JDK\n" +
+            "    配置Tomcat\n" +
+            "    创建工程\n" +
+            "\n" +
+            "  项目结构
+
+
+            jsp+servlet开发
+                jsp负责展示
+                servlet负责逻辑处理
